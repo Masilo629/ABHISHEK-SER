@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['+27792648707', 'Anti-Hack', true],
+  ['792648707', 'Anti-Hack', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['+27792648707','+27792648707'] 
-global.prems = ['+27792648707', '+27792648707', '919074692450']
+global.mods = ['792648707','792648707'] 
+global.prems = ['792648707', '792648707', '919074692450']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
